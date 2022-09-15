@@ -1,0 +1,26 @@
+que es git y github 
+
+git es el programa
+
+deisy rodriguez 3138035807 alumna
+
+chicos para los que quieran unirse al grupo https://chat.whatsapp.com/KVOeelvAV0xBB0rfliyB7K
+
+git init   :  inicia y crea el repositorio y comienza a darle seguimiento
+git add : crea un archivo de ensayo del repositorio
+git commit : guarda los cambios del repositorio
+git status -s : para saber si git esta haciendole el seguimiento
+a nuestro repositorio
+
+git commit  -m " "   // entre comillas va el titulo que nosotros dispongamos
+git log --oneline : para saber cuantas copias llevo cuantos respaldos
+git reset --hard  deb89dc : Volver a un estado anterior de mi copia
+
+touch
+vim my_file.txt
+touch my_file.txt
+
+primero git add
+git status 
+git commit -m ""
+got log
