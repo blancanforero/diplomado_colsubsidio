@@ -1,0 +1,12 @@
+h1{font-size: 3rem;}
+
+   
+p{background-color:blue;
+    color: white;
+    width: 250px;
+ font-size: 30px;
+text-align: center;
+line-height: 35px;}
+
+p:hover{ border: solid;
+border-color: brown;}

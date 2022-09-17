@@ -1,0 +1,76 @@
+css
+
+style p{font size 10 px}
+ medidas 
+pixel , 
+1Rem=16px, se puede poner en decimales ejem: <p style="font-size: 1.5Rem;">
+
+em= tamaño de pixel que nosotros le dampos que le damos en el htmal
+
+porcentaje, html predeterminada en 100% <p font-size: 200%;
+ 
+viewportheight  : la vista 1*** corresponde al 1% de la pantalla
+ejem <!-- height:900px width: 16000-->
+<!-- 1vw = 16px, 1vh = 9px-->
+<p style="font-size: 3vw;">
+<p style="font-size: 2vh;">
+
+
+
+viewportwidth
+
+line-height espacio en renglones 
+
+letter-spacing espacio entre letras
+
+opacity 0-5 la opacidad
+
+font-weigth: especifica el peso o grueso de la letra
+
+decoracion de texto
+
+underline linea sigsag abajo
+
+line-through rayado en la mitad
+
+overline linea arriba
+
+google font para buscar fuentes
+
+font-family poner la fuente descargadas copiar el link desde google font
+
+ejemp<p style="font_family:""
+
+cajas
+
+text-align: center rigth left justify top
+justify-content
+
+width ancho
+height alto
+
+para utilizar css
+<link rel"" href"archivo css"
+
+id"cambio" en html y #cambio en css
+
+class"curso" en html  .curso(para llamarlo a css)
+
+p:hover {se puede cambiar cuando para el mouse
+
+float
+
+padding cajita que rodea el titulo por px
+
+border
+border radeo rodea al padding diferentes edtilosde bordes =solid
+
+margin lo que rodes el border por px
+
+backgroung(color ) lo que esta dentro del border
+
+comentario para html<!--comentario-->
+comentario para css/*comentario*/ no los lee nos sirve para nosotros
+
+
+
