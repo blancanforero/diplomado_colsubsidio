@@ -1,0 +1,103 @@
+header{
+    background: rgb(225, 230, 229);
+    text-align: center;
+    }
+
+img{
+    height: 100px;
+    }
+
+.position_logo1{
+    position: absolute;
+    top:13px;
+    bottom:;
+    right:;
+    left:250px;
+    }
+    
+.position_logo2{
+    position: absolute;
+    top:13px;
+    bottom:;
+    right:;
+    left:950px;
+    }
+    
+h1{
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    }    
+
+.menu{
+    width: 100%;
+    background: #720BCD;
+    list-style: none;
+    font-sixe:32;px
+    margin: 0;
+    padding: 0;}
+
+.menu li{
+    display: inline-block;}
+
+.menu li a{
+    padding: 10px 20px;
+    display: inline-block;
+    color:#ffffff;
+    }
+
+.menu li a:hover{
+    background: rgb(223, 184, 238);
+    color: #000}
+    
+
+.imagen1y2{
+    width:200px;
+    height:auto;
+    
+    padding:0px;
+    margin: 0px 10px;
+    float: left;
+    }   
+
+.contenedor{
+    background: #bbb;
+    width: 45%;
+    padding:10px;
+    margin: 20px;
+    float:left
+
+}
+
+.imagen3y4{
+    width:200px;
+    height:auto;
+    
+    padding:0px;
+    margin: 0px 10px;
+    float: right;
+}
+
+.footer{
+    background: #720BCD;
+    clear: both;
+    height: 100px;
+    padding: 20px;
+    margin:20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.redes{
+    float: right;
+}
+
+.caja_registro{
+    background: rgb(225, 230, 229);
+    font-family: cursive;
+    padding: 20px;
+    margin: 20px;    
+}
+
+
+
+
